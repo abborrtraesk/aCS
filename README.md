@@ -1,4 +1,4 @@
-## (Bonus-) Übung zur aCS-Vorlesung vom 18.12.23
+## (Bonus-) Übung zur aCS-Vorlesung vom 06.01.2025
 
 Zum Starten folgenden Binder-Link nutzen:
 
